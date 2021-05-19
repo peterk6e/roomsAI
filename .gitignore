@@ -26,4 +26,5 @@ ehthumbs.db
 Thumbs.db
 /.ipynb_checkpoints 
 /bathroom 
-/model 
+/models
+/rooms 
