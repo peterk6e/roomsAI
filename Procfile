@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True 001_bathrooms.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True bear-classifier.ipynb
